@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.contact::before {
+    content: '';
+    display: inline-block;
+    margin-right: 10px;
+    width: 1rem;
+    height: 1rem;
+    background-size: cover;
+}
+
+/* Here you write your styles... */
